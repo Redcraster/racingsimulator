@@ -9,6 +9,7 @@ build/
 *.exe
 *.out
 *.app
+main
 
 # Динамические библиотеки
 *.dll
